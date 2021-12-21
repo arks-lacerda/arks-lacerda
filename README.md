@@ -1,1 +1,14 @@
-### Hi there  ![hi](https://user-images.githubusercontent.com/39713179/147009867-e92fb191-24f0-4b11-a8d2-eae07664f493.gif)
+### Hi there (●'◡'●)
+
+
+🔥 junior Web Developer & graduate in Computer Science
+
+🔭 I’m currently working at Freelancer
+
+👨‍💻 All my projects are available on my machine, evaluating which ones to upload to Github
+
+💬 Ask me about JavaScript, HTML, CSS
+
+✍️ I'm always studying and taking courses, currently taking RocketSeat course, HTML, CSS, JavaScript, SQL, NODE, REACT.
+
+
