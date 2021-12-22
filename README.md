@@ -34,7 +34,7 @@
 
 <p align="left" style="display:flex">
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=tucasrl&show_icons=true&theme=vision-friendly-dark" alt="tucasrl stats"/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucasrl&layout=compact&theme=vision-friendly-dark" alt="tucasrl most languages"/>
 </p>
 
