@@ -59,9 +59,9 @@
  <img align="center" src="https://img.shields.io/badge/-arthurlacerda-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>-->
 </p>
-
+<!--
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=arthur_srl&layout=wide&show_reply=on&show_retweet=on" />
-
+-->
 
 <!--
 **tucasrl/arthursrlacerda** is a ✨ -_special_- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
