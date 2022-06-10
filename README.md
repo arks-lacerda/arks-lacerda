@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Arthur Lacerda</h1>
+<h1 align="left">Hi, I'm Arthur Lacerda</h1>
 <p align="left"></p>
 
 🔥 junior Web Developer & graduate in Computer Science
