@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Arthur Lacerda</h1>
 <p align="left"></p>
 
-🔥 junior Web Developer & graduate in Computer Science
+🔥 Junior Web Developer & graduate in Computer Science
 
 🔭 I’m currently working at Freelancer
 
