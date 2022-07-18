@@ -29,7 +29,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex">
+<div style="display: flex"> 
 <img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 <img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 <img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
