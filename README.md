@@ -40,21 +40,16 @@
 
 <br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏽‍🦲 &nbsp;🟢 REACH ME HERE:
+  
+<div style="display: flex">
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' title="Linkedin" target="_blank" />](https://www.linkedin.com/in/arthur-lacerda-4310696a/)
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter" target="_blank" />](https://twitter.com/arthur_srl/) 
+[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram" target="_blank" />]
+(https://www.instagram.com/arthur_arks/)
+[<img src='https://user-images.githubusercontent.com/39713179/179565080-b15e3558-45c1-4029-9689-cdbdfcba0570.png' title="CodePen" width='60' target="_blank" />](https://codepen.io/tucasrl/)
+</div>
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/tucasrl" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-tucasrl-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a> 
-<a href="https://twitter.com/arthur_srl" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-arthur_srl-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/arthur-lacerda-4310696a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-arthurlacerda-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/arthur_arks/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-arthur_arks-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <!--<a href="https://youtube.com/arthurlacerda" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-arthurlacerda-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>-->
