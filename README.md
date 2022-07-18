@@ -30,11 +30,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display: flex"> 
-<img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-<img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-<img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/tucasrl/profile-summary-cards/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tucasrl&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tucasrl&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tucasrl&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tucasrl&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tucasrl&theme=tokyonight&utcOffset=8)
 </div>
 
 <br>
