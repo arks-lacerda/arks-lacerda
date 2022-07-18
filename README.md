@@ -43,17 +43,17 @@
  👨🏻‍💻 &nbsp; REACH ME HERE:
   
 <div style="display: flex">
-<a href="https://www.linkedin.com/in/arthur-lacerda-4310696a">
-<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' title="Linkedin" target="_blank" />
+<a href="https://www.linkedin.com/in/arthur-lacerda-4310696a"  target="_blank">
+<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' title="Linkedin"/>
 </a>
-<a href="https://twitter.com/arthur_srl/">
-<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter" target="_blank" />
+<a href="https://twitter.com/arthur_srl/" target="_blank">
+<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter"/>
 </a>
-<a href="https://www.instagram.com/arthur_arks/">
-<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram" target="_blank" />
+<a href="https://www.instagram.com/arthur_arks/" target="_blank">
+<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram"/>
 </a>
-<a href="https://codepen.io/tucasrl/">
-<img src='https://user-images.githubusercontent.com/39713179/179569302-193e97e8-0013-47f4-976b-bccd5f204b1f.png' title="CodePen" width='60' target="_blank" />
+<a href="https://codepen.io/tucasrl/" target="_blank">
+<img src='https://user-images.githubusercontent.com/39713179/179569302-193e97e8-0013-47f4-976b-bccd5f204b1f.png' title="CodePen" width='60'/>
 </a>
 </div>
 
