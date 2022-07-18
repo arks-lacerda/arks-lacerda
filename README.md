@@ -40,7 +40,7 @@
 
 <br>
 
-## 👨🏽‍🦲 &nbsp;🟢 REACH ME HERE:
+ 👨🏻‍💻 &nbsp; REACH ME HERE:
   
 <div style="display: flex">
 <a href="https://www.linkedin.com/in/arthur-lacerda-4310696a">
