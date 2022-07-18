@@ -29,7 +29,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex"> 
 <div style="display: flex">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tucasrl&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tucasrl&theme=tokyonight" />
@@ -40,9 +39,8 @@
 
 <br>
 
- 👨🏻‍💻 &nbsp; REACH ME HERE:
+## 👨🏻‍💻 &nbsp; REACH ME HERE:
   
-<div style="display: flex">
 <a href="https://www.linkedin.com/in/arthur-lacerda-4310696a"  target="_blank">
 <img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' title="Linkedin"/>
 </a>
@@ -55,7 +53,6 @@
 <a href="https://codepen.io/tucasrl/" target="_blank">
 <img src='https://user-images.githubusercontent.com/39713179/179569302-193e97e8-0013-47f4-976b-bccd5f204b1f.png' title="CodePen" width='60'/>
 </a>
-</div>
 
 <!--
 **tucasrl/arthursrlacerda** is a ✨ -_special_- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
