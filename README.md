@@ -49,17 +49,13 @@
 <a href="https://twitter.com/arthur_srl/">
 <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter" target="_blank" />
 </a>
-[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram" target="_blank" />](https://www.instagram.com/arthur_arks/)
-[<img src='https://user-images.githubusercontent.com/39713179/179565080-b15e3558-45c1-4029-9689-cdbdfcba0570.png' title="CodePen" width='60' target="_blank" />](https://codepen.io/tucasrl/)
+<a href="https://www.instagram.com/arthur_arks/">
+<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram" target="_blank" />
+</a>
+<a href="https://codepen.io/tucasrl/">
+<img src='https://user-images.githubusercontent.com/39713179/179565080-b15e3558-45c1-4029-9689-cdbdfcba0570.png' title="CodePen" width='60' target="_blank" />
+</a>
 </div>
-
-<!--<a href="https://youtube.com/arthurlacerda" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-arthurlacerda-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>-->
-</p>
-<!--
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=arthur_srl&layout=wide&show_reply=on&show_retweet=on" />
--->
 
 <!--
 **tucasrl/arthursrlacerda** is a ✨ -_special_- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
