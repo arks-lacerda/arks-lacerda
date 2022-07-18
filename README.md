@@ -14,7 +14,6 @@
 <br>
 
 ## 🛠 &nbsp;Studying Technology Stack
-<center>
 <div>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width='60' title='CSS3'  />
@@ -25,7 +24,7 @@
 <img src="https://camo.githubusercontent.com/4b9bebf884546cd4759c9ba13324fe468129f8cdc0e6ffd7291f0f70da996c19/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6d6174657269616c2d75692e706e67" width='60' title='Material UI'   />
 <img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width='60'  title='Git' />
 </div>
-</center>
+
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
