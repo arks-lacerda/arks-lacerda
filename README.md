@@ -44,7 +44,7 @@
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/tucasrl" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-tucasrl-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
+</a> 
 <a href="https://twitter.com/arthur_srl" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-arthur_srl-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
