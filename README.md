@@ -53,7 +53,7 @@
 <img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram" target="_blank" />
 </a>
 <a href="https://codepen.io/tucasrl/">
-<img src='https://user-images.githubusercontent.com/39713179/179565080-b15e3558-45c1-4029-9689-cdbdfcba0570.png' title="CodePen" width='60' target="_blank" />
+<img src='https://user-images.githubusercontent.com/39713179/179569302-193e97e8-0013-47f4-976b-bccd5f204b1f.png' title="CodePen" width='60' target="_blank" />
 </a>
 </div>
 
