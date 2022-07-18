@@ -30,11 +30,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display: flex"> 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tucasrl&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tucasrl&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tucasrl&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tucasrl&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tucasrl&theme=tokyonight&utcOffset=8)
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tucasrl&theme=tokyonight)
+(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tucasrl&theme=tokyonight)
+(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tucasrl&theme=tokyonight)
+(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tucasrl&theme=tokyonight)
+(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tucasrl&theme=tokyonight&utcOffset=8)
 </div>
 
 <br>
