@@ -29,11 +29,13 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left" style="display:flex">
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=tucasrl&show_icons=true&theme=vision-friendly-dark" alt="tucasrl stats"/>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucasrl&layout=compact&theme=vision-friendly-dark" alt="tucasrl most languages"/>
-</p>
+<div style="display: flex">
+<img src="https://raw.githubusercontent.com/mohadmn03/profile-summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/mohadmn03/profile-summary-cards/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/mohadmn03/profile-summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/mohadmn03/profile-summary-cards/master/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/mohadmn03/profile-summary-cards/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</div>
 
 <br>
 
