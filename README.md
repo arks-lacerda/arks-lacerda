@@ -15,7 +15,7 @@
 
 ## 🛠 &nbsp;Studying Technology Stack
 
-  <div>
+  <div align="center">
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width='60' title='CSS3'  />
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />
@@ -32,7 +32,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div>
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arks-lacerda&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arks-lacerda&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arks-lacerda&theme=tokyonight" />
@@ -51,7 +51,7 @@
 <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter"/>
 </a>
 <a href="https://www.instagram.com/arthur_arks/" target="_blank">
-<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram"/>
+<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram" color="write"/>
 </a>
 <a href="https://codepen.io/tucasrl/" target="_blank">
 <img src='https://user-images.githubusercontent.com/39713179/179569302-193e97e8-0013-47f4-976b-bccd5f204b1f.png' title="CodePen" width='60'/>
