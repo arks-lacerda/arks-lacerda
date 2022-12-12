@@ -27,6 +27,8 @@
 
 <br>
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display: flex">
