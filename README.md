@@ -27,7 +27,7 @@
 
 <br>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/arks-lacerda/arks-lacerda/blob/output/github-user-contribution.svg)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
