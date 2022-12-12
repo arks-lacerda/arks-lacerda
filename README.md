@@ -50,7 +50,7 @@
 <a href="https://twitter.com/arthur_srl/" target="_blank">
 <img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter"/>
 </a>
-<a href="https://www.instagram.com/arthur_arks/" target="_blank">
+<a href="https://www.instagram.com/arks_lacerda/" target="_blank">
 <img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram"/>
 </a>
 <a href="https://codepen.io/tucasrl/" target="_blank">
