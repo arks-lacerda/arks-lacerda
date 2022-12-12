@@ -14,8 +14,8 @@
 <br>
 
 ## 🛠 &nbsp;Studying Technology Stack
-<center>
-  <div style="display: flex; justify-content: center;">
+
+  <div>
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width='60' title='CSS3'  />
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />
@@ -25,15 +25,14 @@
     <img src="https://camo.githubusercontent.com/4b9bebf884546cd4759c9ba13324fe468129f8cdc0e6ffd7291f0f70da996c19/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6d6174657269616c2d75692e706e67" width='60' title='Material UI'   />
     <img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width='60'  title='Git' />
   </div>
- </center>
-
+  
 <br>
 
 ![GitHub Snake dark](https://github.com/arks-lacerda/arks-lacerda/blob/output/github-user-contribution.svg)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex; justify-content: center;">
+<div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arks-lacerda&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arks-lacerda&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arks-lacerda&theme=tokyonight" />
