@@ -4,7 +4,7 @@
 
 <div align="left">
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=25&left=true&vLeft=true&width=500&lines=HI,+I+am+Arthur+Lacerda;I'm+41+years+old;I+am+from+Belo+Horizonte,+MG;I+m+currently+taking;a+postgraduate+degree;in+Full+Stack+Web+Developer;at+Puc+Minas;Be+Welcome!🎉)](https://github.com/arks-lacerda)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=20&left=true&vLeft=true&width=400&lines=HI,+I+am+Arthur+Lacerda;I'm+41+years+old;I+am+from+Belo+Horizonte,+MG;I+m+currently+taking;a+postgraduate+degree;in+Full+Stack+Web+Developer;at+Puc+Minas;Be+Welcome!🎉)](https://github.com/arks-lacerda)
 	
 </div>
 
