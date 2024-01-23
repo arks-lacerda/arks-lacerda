@@ -1,3 +1,5 @@
+<a href="https://github.com/arks-lacerda"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Arthur+Lacerda+-+Tuca&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+
 <img src="./computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div align="left">
@@ -49,30 +51,34 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arks-lacerda&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arks-lacerda&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arks-lacerda&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arks-lacerda&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arks-lacerda&theme=tokyonight&utcOffset=8" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arks-lacerda&theme=tokyonight" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arks-lacerda&theme=tokyonight" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arks-lacerda&theme=tokyonight" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arks-lacerda&theme=tokyonight" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arks-lacerda&theme=tokyonight&utcOffset=8" />
 </div>
 
 <br>
 
 ## 👨🏻‍💻 &nbsp; REACH ME HERE:
-  
-<a href="https://www.linkedin.com/in/arthur-lacerda-4310696a"  target="_blank">
-<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' title="Linkedin"/>
-</a>
-<a href="https://twitter.com/arthur_srl/" target="_blank">
-<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter"/>
-</a>
-<a href="https://www.instagram.com/arks_lacerda/" target="_blank">
-<img src='https://cdn2.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram"/>
-</a>
-<a href="https://codepen.io/tucasrl/" target="_blank">
-<img src='https://user-images.githubusercontent.com/39713179/179569302-193e97e8-0013-47f4-976b-bccd5f204b1f.png' title="CodePen" width='60'/>
-</a>
 
+<div align='center'>
+	<a href="https://www.linkedin.com/in/arthur-lacerda-4310696a"  target="_blank">
+	<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' title="Linkedin"/>
+	</a>
+	<a href="https://twitter.com/arthur_srl/" target="_blank">
+	<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' title="Twitter"/>
+	</a>
+	<a href="https://www.instagram.com/arks_lacerda/" target="_blank">
+	<img src='https://cdn2.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' title="Instagram"/>
+	</a>
+	<a href="https://codepen.io/tucasrl/" target="_blank">
+	<img src='https://user-images.githubusercontent.com/39713179/179569302-193e97e8-0013-47f4-976b-bccd5f204b1f.png' title="CodePen" width='60'/>
+	</a>
+</div>
 <!--
 **tucasrl/arthursrlacerda** is a ✨ -_special_- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<a href="https://github.com/arks-lacerda">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+</a>
