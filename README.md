@@ -1,6 +1,6 @@
 <a href="https://github.com/arks-lacerda"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Arthur+Lacerda+-+Tuca&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
-<img src="./computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="400px" align="right">
 
 <div align="left">
 	
